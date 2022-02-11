@@ -1,0 +1,5 @@
+name: vadapav-action1
+description: testing 12
+author: "someone"
+docker: 'docker
+image: "someimage'
